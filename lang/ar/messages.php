@@ -9,7 +9,7 @@ return [
     'header_Pages' => 'صفحات',
     'header_404' => '404 خطأ',
     'header_Blogs' => 'المدونة',
-    'header_Contact' => ' اتصل بنا',
+    'header_Contact' => 'اتصل بنا',
     'header_Book' => 'احجز ميعاد',
 
     'features_Emergency' => 'مساعدة الطوارئ',
