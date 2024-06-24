@@ -16,7 +16,7 @@
 							<div class="signle-icon">
 								<i class="icofont icofont-ambulance-cross"></i>
 							</div>
-							<h3>Emergency Help</h3>
+							<h3>{{ __('messages.features_Emergency') }}</h3>
 							<p>Lorem ipsum sit, consectetur adipiscing elit. Maecenas mi quam vulputate.</p>
 						</div>
 						<!-- End Single features -->
@@ -27,7 +27,7 @@
 							<div class="signle-icon">
 								<i class="icofont icofont-medical-sign-alt"></i>
 							</div>
-							<h3>Enriched Pharmecy</h3>
+							<h3>{{ __('messages.features_Enriched') }}</h3>
 							<p>Lorem ipsum sit, consectetur adipiscing elit. Maecenas mi quam vulputate.</p>
 						</div>
 						<!-- End Single features -->

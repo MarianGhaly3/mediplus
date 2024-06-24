@@ -15,4 +15,8 @@ return [
     'features_Emergency' => 'Emergency Help',
     'features_Enriched' => 'Enriched Pharmecy',
 
+    'slider_provide' => 'We Provide',
+    'slider_Medical' => 'Medical Services ',
+
+    
 ];

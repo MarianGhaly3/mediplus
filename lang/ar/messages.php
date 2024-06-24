@@ -14,6 +14,9 @@ return [
 
     'features_Emergency' => 'مساعدة الطوارئ',
     'features_Enriched' => 'الصيدلية  ',
-    
+
+    'slider_provide' => 'نحن نوفر',
+    'slider_Medical' => 'طبية خدمات',
+
 
 ];
